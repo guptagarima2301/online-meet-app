@@ -2,6 +2,18 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## VIEW THE SCREENSHOTS OF THE WEB APP HERE:
+
+## Enter any number here as the room code
+
+![Screenshot 2024-08-16 130504](https://github.com/user-attachments/assets/de203be0-3f31-41be-86ba-e21937bdb2dd)
+
+## join the room with your audio and video enabled
+
+
+![Screenshot 2024-08-16 130545](https://github.com/user-attachments/assets/cd9d2497-9a90-4e07-a6f2-4cb139ceff4e)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
